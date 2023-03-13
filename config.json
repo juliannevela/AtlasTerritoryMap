@@ -1,8 +1,8 @@
 {
-  "EnableTileGeneration": false,
+  "EnableTileGeneration": true,
   "EnableGameGeneration": true,
   "EnableTopTribes": true,
-  "Host": "",
+  "Host": "https://atlas-territory-map-juliannevela.vercel.app/",
   "Port": 8881,
   "AlternativeURL": "https://atlas-territory-map-juliannevela.vercel.app/",
   "WWWDir": "./www",
